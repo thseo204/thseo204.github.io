@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "She's Development :: He's Planning"
+title                    : "그 여자 개발, 그 남자 기획" #"She's Development :: He's Planning"
 title_separator          : "-"
 subtitle                 : "Every moment is a fresh beginnig" # site tagline that appears below site title in masthead
 name                     : "Anna and Ocross"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Anna and Ocross"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**Developer&Planner**'s blog."
+  bio              : "**Developer & Planner**'s blog."
   location         : "Korea"
   email            :
   links:
