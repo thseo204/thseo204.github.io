@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "taehwa's blog"
+title                    : "She's Development & He's Planning"
 title_separator          : "-"
 subtitle                 : "Every moment is a fresh beginnig" # site tagline that appears below site title in masthead
-name                     : "Tae-hwa Seo"
+name                     : "Anna and Ocross"
 description              : "An amazing website."
 url                      : "https://thseo204.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
